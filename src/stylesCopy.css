@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+}
+
+h4 {
+  text-align: center;
+  color: #d92525;
+  font-weight: 800;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+.counter {
+  padding: 10px;
+}
+
+.counter-controls {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+ol {
+  margin-top: 0.5rem;
+  margin-left: 2.5rem;
+  list-style-type: decimal;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+.instructions {
+  list-style-type: decimal;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+
+.total {
+  color: red;
+  font-weight: 700;
+}
